@@ -31,3 +31,4 @@ C:/Users/cynth/Desktop/NetOverHaul/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/
 /Users/fordhenley/Documents/GitHub/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/APIsAndJSON.pdb
 /Users/fordhenley/Documents/GitHub/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/APIsAndJSON.genruntimeconfig.cache
 /Users/fordhenley/Documents/GitHub/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/ref/APIsAndJSON.dll
+/Users/fordhenley/Documents/GitHub/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/appsettings.json
